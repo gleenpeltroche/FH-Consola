@@ -1,6 +1,5 @@
 # Aplicación de consola interactiva
 
-Esta aplicación es parte de mi curso de Node de cero a experto que puedes encontrar aquí:
-
-[Node: De cero a experto](https://fernando-herrera.com/#/curso/node-cero-experto)
+## Para ininciarla, instalar los modulos de node y escribir en la consola:
+### npm start
 
